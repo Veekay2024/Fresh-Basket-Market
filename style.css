@@ -148,6 +148,7 @@ body {
     width: 50rem;
     height: 40rem;
     border-radius: 10px;
+    object-fit: cover;
 }
 
 @media (max-width: 720px) {
